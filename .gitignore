@@ -1,0 +1,16 @@
+# Ignore everything
+/*
+
+### Files to not ignore
+!/.gitignore
+!/.zshrc
+!/.bashrc
+!/.autostart
+# !/.oh-my-zsh
+!/.colorscheme
+!/.fonts
+
+### Folder to not ignore
+!/.config/
+!/.config/nvim/
+!/.termux/
