@@ -4,7 +4,7 @@
 
 export COLUMNS LINES
 
-#cursor underline    
+#cursor underline
 echo -e "\e[4 q"
 
 #cursor pipe
@@ -19,14 +19,14 @@ echo -e "\e[4 q"
 #fi
 
 #if [ ! -f ~/.scripts/pid/login ]; then
-        
-  # bash ~/.scripts/login.sh
+
+# bash ~/.scripts/login.sh
 
 #fi
 
 #neo
 #clear
-#rxfetch
+# rxfetch
 
 # SSH for Git & GitHub!
 #SSH_ENV="${HOME}/.ssh/agent-environment"
@@ -49,7 +49,3 @@ echo -e "\e[4 q"
 #else
 #  start_agent
 #fi
-
-# figlet -c -f 'AMC 3 Line' "Welcome" | lolcat
-
-# figlet -c -f 'AMC 3 Line' "FakeDark" | lolcat

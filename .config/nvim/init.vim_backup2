@@ -1,8 +1,0 @@
-call plug#begin()
-
-" List your plugins here
-Plug 'https://github.com/catppuccin/nvim'
-
-call plug#end()
-
-:colorscheme catppuccin-mocha

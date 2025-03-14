@@ -4,13 +4,22 @@
 ### Files to not ignore
 !/.gitignore
 !/.zshrc
+!/.zprofile
 !/.bashrc
 !/.autostart
+!/.aliases
 # !/.oh-my-zsh
 !/.colorscheme
 !/.fonts
+!/.p10k.zsh
+!/.prettierrc.json
+!/.tmux-themepack
+!/.tmux.conf
+!/
 
 ### Folder to not ignore
 !/.config/
 !/.config/nvim/
 !/.termux/
+!/.scripts
+!/.colorscheme
