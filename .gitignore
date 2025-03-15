@@ -15,7 +15,6 @@
 !.prettierrc.json
 !.tmux-themepack
 !.tmux.conf
-!/
 
 ### Folder to not ignore
 !.config/
