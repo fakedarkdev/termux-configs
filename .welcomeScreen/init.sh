@@ -2,7 +2,7 @@
 
 clear
 
-[ -d "$HOME/.welcomeScreen" ] && MOTD="$HOME/.welcomeScreen"
+[ -d "$PREFIX/etc/motd" ] && MOTD="$PREFIX/etc/motd"
 
 for i in $(find $MOTD -maxdepth 1 -regex '.+/[0-9\-].+' -not -regex ".+\.disabled" | sort)
 do
