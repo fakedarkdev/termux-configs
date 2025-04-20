@@ -75,6 +75,9 @@ alias dl="cd /sdcard/Download"
 #Documents
 alias ds="cd /sdcard/Documents"
 
+# Obsidian Vault
+alias obsidian-cd="cd /sdcard/Documents/Obsidian/MyVault"
+
 #Largest Files
 alias largefile="du -h -x -s -- * | sort -r -h | head -20"
 
